@@ -4,10 +4,10 @@
 
 ### EECS 738 - Machine Learning Project 3  
 
-### Dataset #1: Digit Recognizer using MNIST Dataset: 
+### Dataset: Digit Recognizer using MNIST Dataset: 
 Two-layer neural network trained on the MNIST dataset.
-[Dataset](https://www.kaggle.com/c/digit-recognizer/data?select=train.csv)
-[Jupyter notebook]()
+[Dataset (too large for github)](https://www.kaggle.com/c/digit-recognizer/data?select=train.csv)
+[Jupyter notebook](https://github.com/a268s950/Seib_ML_Project_3/blob/main/Project%203%20-%20MNIST%20Dataset.ipynb)
 
 
 ### Used references:  
