@@ -11,6 +11,11 @@ Two-layer neural network trained on the MNIST dataset.
 
 [Jupyter notebook](https://github.com/a268s950/Seib_ML_Project_3/blob/main/Project%203%20-%20MNIST%20Dataset.ipynb)
 
+### Dataset: Sarcasm Detector using News Headlines
+
+[Dataset](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)
+
+[Jupyter notebook](https://github.com/a268s950/Seib_ML_Project_3/blob/main/Project%203%20-%20Sarcasm%20Detection.ipynb)
 
 ### Used references:  
 https://www.kaggle.com/c/digit-recognizer/
